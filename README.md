@@ -27,3 +27,11 @@
 *Приложите скриншот с уведомлением.*
 
 ### * Ответ к Заданию 2*
+
+
+![Img2022-12-03 222409](https://github.com/Litande85/9.1-hw/blob/main/Img2022-12-03%222409.png)
+
+![Img2022-12-03 223352](https://github.com/Litande85/9.1-hw/blob/main/Img2022-12-03%223352.png)
+
+![Img2022-12-03 223537](https://github.com/Litande85/9.1-hw/blob/main/Img2022-12-03%223537.png)
+
